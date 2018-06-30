@@ -1,7 +1,4 @@
-###########################
-### kugane's sidekit!!! ###
-###########################
-class page_source:
+﻿class page_source:
     def __init__(self, driver, save_path, cool_time=1.6):
         import re
         import zipfile
